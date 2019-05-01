@@ -13,7 +13,7 @@ export class ProgrammingComponent implements OnInit {
       "name": "Ecommerce Store",
       "desc": "React With Redux",
       "img":  "../../assets/ecommerce.png",
-      "link": "http://berkleyhoran.me/list/a"
+      "link": "https://git.berkleyhoran.me/React-Ecommerce/"
     },
     {
       "id" : 2,
@@ -27,14 +27,14 @@ export class ProgrammingComponent implements OnInit {
       "name" : "To Do App",
       "desc": "Jquery and Javascript",
       "img": "../../assets/todoapp.png",
-      "link": "http://berkleyhoran.me/jubilant-octo-fiesta/"
+      "link": "http://git.berkleyhoran.me/jubilant-octo-fiesta/"
     },
     {
       "id" : 5,
       "name" : "Javscript Golf App",
       "desc": "Javascript",
       "img": "../../assets/jsgolf.png",
-      "link": "http://berkleyhoran.me/golfproject/"
+      "link": "http://git.berkleyhoran.me/golfproject/"
     },
     {
       "id" : 6,
@@ -48,21 +48,21 @@ export class ProgrammingComponent implements OnInit {
       "name" : "Pokemon Sprite Viewer",
       "desc": "Javascript",
       "img": "../../assets/spriteviewer.png",
-      "link": "http://calebclayson.me/mtech/pokemonList/"
+      "link": "https://git.berkleyhoran.me/pokemonlooker/"
     },
     {
       "id" : 8,
       "name" : "Machine Learning",
       "desc": "Java in Processing",
       "img": "../../assets/ml.png",
-      "link": "http://berkleyhoran.me/machineLearning/"
+      "link": "http://git.berkleyhoran.me/machineLearning/"
     },
     {
       "id" : 9,
       "name" : "Perlin Noise",
       "desc": "Java in Processing",
       "img": "../../assets/perlin.png",
-      "link": "http://berkleyhoran.me/MTECH/processing/"
+      "link": "http://git.berkleyhoran.me/MTECH/processing/"
     }
   ]
 

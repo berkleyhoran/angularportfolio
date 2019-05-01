@@ -14,14 +14,14 @@ import { ExperienceComponent } from './experience/experience.component';
 
 const appRoutes: Routes = [
   { path: 'contact', component: ContactComponent },
-  { path: 'index', component: HomepageComponent },
+  { path: '', component: HomepageComponent },
   { path: 'programming', component: ProgrammingComponent },
   { path: 'experience', component: ExperienceComponent },
-  { path: '',
-    redirectTo: '/index',
+  { path: '**',
+    redirectTo: '',
     pathMatch: 'full'
-  },
-  { path: '**', component: PageNotFoundComponent }
+  }
+  // { path: '**', component: PageNotFoundComponent }
 ];
 
 @NgModule({
